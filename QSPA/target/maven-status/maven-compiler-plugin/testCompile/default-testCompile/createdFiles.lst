@@ -1,0 +1,16 @@
+smokeTestCase\To_launch_Meesho_Test.class
+systemTestCase\To_launch_Apple_Test.class
+smokeTestCase\To_launch_DemoWebshop_Test.class
+systemTestCase\To_launch_Poco_Test.class
+systemTestCase\To_launch_Mi_Test.class
+systemTestCase\To_launch_Motorola_Test.class
+IntigrationTestCase\To_launch_Lakme_Test.class
+systemTestCase\To_launch_Samsung_Test.class
+IntigrationTestCase\To_launch_Purplle_Test.class
+IntigrationTestCase\To_launch_Maybelline_Test.class
+IntigrationTestCase\Tc_demo_001_Test.class
+smokeTestCase\To_launch_Flipcart_Test.class
+IntigrationTestCase\To_launch_Sugar_Test.class
+IntigrationTestCase\To_Iaunch_Lorealparis_Test.class
+smokeTestCase\To_launch_Ajio_Test.class
+smokeTestCase\To_launch_Myntra_Test.class
