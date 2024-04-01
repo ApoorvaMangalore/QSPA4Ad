@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="15" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T15:33:26 IST" name="Surefire suite" finished-at="2024-04-01T15:35:54 IST" duration-ms="147756">
+    <groups>
+      <group name="ecom">
+        <method signature="To_launch_Ajio_Test.ajioApp()[pri:0, instance:smokeTestCase.To_launch_Ajio_Test@65d09a04]" name="ajioApp" class="smokeTestCase.To_launch_Ajio_Test"/>
+        <method signature="To_launch_DemoWebshop_Test.demoWebshop()[pri:0, instance:smokeTestCase.To_launch_DemoWebshop_Test@33c911a1]" name="demoWebshop" class="smokeTestCase.To_launch_DemoWebshop_Test"/>
+        <method signature="To_launch_Flipcart_Test.flipcart()[pri:0, instance:smokeTestCase.To_launch_Flipcart_Test@75db5df9]" name="flipcart" class="smokeTestCase.To_launch_Flipcart_Test"/>
+        <method signature="To_launch_Meesho_Test.meesho()[pri:0, instance:smokeTestCase.To_launch_Meesho_Test@707194ba]" name="meesho" class="smokeTestCase.To_launch_Meesho_Test"/>
+        <method signature="To_launch_Myntra_Test.myntra()[pri:0, instance:smokeTestCase.To_launch_Myntra_Test@1190200a]" name="myntra" class="smokeTestCase.To_launch_Myntra_Test"/>
+      </group> <!-- ecom -->
+      <group name="beauty">
+        <method signature="To_Iaunch_Lorealparis_Test.lorealparis()[pri:0, instance:IntigrationTestCase.To_Iaunch_Lorealparis_Test@58a9760d]" name="lorealparis" class="IntigrationTestCase.To_Iaunch_Lorealparis_Test"/>
+        <method signature="To_launch_Lakme_Test.lakmeindia()[pri:0, instance:IntigrationTestCase.To_launch_Lakme_Test@71e9ddb4]" name="lakmeindia" class="IntigrationTestCase.To_launch_Lakme_Test"/>
+        <method signature="To_launch_Maybelline_Test.maybelline()[pri:0, instance:IntigrationTestCase.To_launch_Maybelline_Test@394df057]" name="maybelline" class="IntigrationTestCase.To_launch_Maybelline_Test"/>
+        <method signature="To_launch_Purplle_Test.purplle()[pri:0, instance:IntigrationTestCase.To_launch_Purplle_Test@4961f6af]" name="purplle" class="IntigrationTestCase.To_launch_Purplle_Test"/>
+        <method signature="To_launch_Sugar_Test.sugar()[pri:0, instance:IntigrationTestCase.To_launch_Sugar_Test@5aebe890]" name="sugar" class="IntigrationTestCase.To_launch_Sugar_Test"/>
+      </group> <!-- beauty -->
+      <group name="mobile">
+        <method signature="To_launch_Apple_Test.apple()[pri:0, instance:systemTestCase.To_launch_Apple_Test@6a2f6f80]" name="apple" class="systemTestCase.To_launch_Apple_Test"/>
+        <method signature="To_launch_Mi_Test.mi()[pri:0, instance:systemTestCase.To_launch_Mi_Test@45b4c3a9]" name="mi" class="systemTestCase.To_launch_Mi_Test"/>
+        <method signature="To_launch_Motorola_Test.motorola()[pri:0, instance:systemTestCase.To_launch_Motorola_Test@399c4be1]" name="motorola" class="systemTestCase.To_launch_Motorola_Test"/>
+        <method signature="To_launch_Poco_Test.poco()[pri:0, instance:systemTestCase.To_launch_Poco_Test@291caca8]" name="poco" class="systemTestCase.To_launch_Poco_Test"/>
+        <method signature="To_launch_Samsung_Test.samsung()[pri:0, instance:systemTestCase.To_launch_Samsung_Test@385e9564]" name="samsung" class="systemTestCase.To_launch_Samsung_Test"/>
+      </group> <!-- mobile -->
+    </groups>
+    <test started-at="2024-04-01T15:33:26 IST" name="Surefire test" finished-at="2024-04-01T15:35:54 IST" duration-ms="147756">
+      <class name="smokeTestCase.To_launch_Ajio_Test">
+        <test-method signature="ajioApp()[pri:0, instance:smokeTestCase.To_launch_Ajio_Test@65d09a04]" started-at="2024-04-01T15:34:20 IST" name="ajioApp" finished-at="2024-04-01T15:34:36 IST" duration-ms="15756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajioApp -->
+      </class> <!-- smokeTestCase.To_launch_Ajio_Test -->
+      <class name="smokeTestCase.To_launch_Flipcart_Test">
+        <test-method signature="flipcart()[pri:0, instance:smokeTestCase.To_launch_Flipcart_Test@75db5df9]" started-at="2024-04-01T15:34:44 IST" name="flipcart" finished-at="2024-04-01T15:34:51 IST" duration-ms="7032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipcart -->
+      </class> <!-- smokeTestCase.To_launch_Flipcart_Test -->
+      <class name="IntigrationTestCase.To_launch_Purplle_Test">
+        <test-method signature="purplle()[pri:0, instance:IntigrationTestCase.To_launch_Purplle_Test@4961f6af]" started-at="2024-04-01T15:34:15 IST" name="purplle" finished-at="2024-04-01T15:34:18 IST" duration-ms="2775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purplle -->
+      </class> <!-- IntigrationTestCase.To_launch_Purplle_Test -->
+      <class name="smokeTestCase.To_launch_Meesho_Test">
+        <test-method signature="meesho()[pri:0, instance:smokeTestCase.To_launch_Meesho_Test@707194ba]" started-at="2024-04-01T15:34:51 IST" name="meesho" finished-at="2024-04-01T15:34:54 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meesho -->
+      </class> <!-- smokeTestCase.To_launch_Meesho_Test -->
+      <class name="systemTestCase.To_launch_Mi_Test">
+        <test-method signature="mi()[pri:0, instance:systemTestCase.To_launch_Mi_Test@45b4c3a9]" started-at="2024-04-01T15:35:12 IST" name="mi" finished-at="2024-04-01T15:35:22 IST" duration-ms="9278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mi -->
+      </class> <!-- systemTestCase.To_launch_Mi_Test -->
+      <class name="IntigrationTestCase.To_launch_Lakme_Test">
+        <test-method signature="lakmeindia()[pri:0, instance:IntigrationTestCase.To_launch_Lakme_Test@71e9ddb4]" started-at="2024-04-01T15:33:47 IST" name="lakmeindia" finished-at="2024-04-01T15:34:03 IST" duration-ms="16066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lakmeindia -->
+      </class> <!-- IntigrationTestCase.To_launch_Lakme_Test -->
+      <class name="IntigrationTestCase.To_launch_Maybelline_Test">
+        <test-method signature="maybelline()[pri:0, instance:IntigrationTestCase.To_launch_Maybelline_Test@394df057]" started-at="2024-04-01T15:34:03 IST" name="maybelline" finished-at="2024-04-01T15:34:15 IST" duration-ms="12214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maybelline -->
+      </class> <!-- IntigrationTestCase.To_launch_Maybelline_Test -->
+      <class name="systemTestCase.To_launch_Poco_Test">
+        <test-method signature="poco()[pri:0, instance:systemTestCase.To_launch_Poco_Test@291caca8]" started-at="2024-04-01T15:35:27 IST" name="poco" finished-at="2024-04-01T15:35:44 IST" duration-ms="16960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- poco -->
+      </class> <!-- systemTestCase.To_launch_Poco_Test -->
+      <class name="systemTestCase.To_launch_Motorola_Test">
+        <test-method signature="motorola()[pri:0, instance:systemTestCase.To_launch_Motorola_Test@399c4be1]" started-at="2024-04-01T15:35:22 IST" name="motorola" finished-at="2024-04-01T15:35:27 IST" duration-ms="5573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorola -->
+      </class> <!-- systemTestCase.To_launch_Motorola_Test -->
+      <class name="IntigrationTestCase.Tc_demo_001_Test">
+        <test-method signature="run()[pri:0, instance:IntigrationTestCase.Tc_demo_001_Test@7530ad9c]" started-at="2024-04-01T15:33:26 IST" name="run" finished-at="2024-04-01T15:33:36 IST" duration-ms="9874" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[null value in entry: url=null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: null value in entry: url=null
+at com.google.common.collect.CollectPreconditions.checkEntryNotNull(CollectPreconditions.java:33)
+at com.google.common.collect.SingletonImmutableBiMap.<init>(SingletonImmutableBiMap.java:43)
+at com.google.common.collect.ImmutableBiMap.of(ImmutableBiMap.java:83)
+at com.google.common.collect.ImmutableMap.of(ImmutableMap.java:130)
+at org.openqa.selenium.remote.DriverCommand.GET(DriverCommand.java:191)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at IntigrationTestCase.Tc_demo_001_Test.run(Tc_demo_001_Test.java:18)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- IntigrationTestCase.Tc_demo_001_Test -->
+      <class name="smokeTestCase.To_launch_DemoWebshop_Test">
+        <test-method signature="demoWebshop()[pri:0, instance:smokeTestCase.To_launch_DemoWebshop_Test@33c911a1]" started-at="2024-04-01T15:34:36 IST" name="demoWebshop" finished-at="2024-04-01T15:34:44 IST" duration-ms="8160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoWebshop -->
+      </class> <!-- smokeTestCase.To_launch_DemoWebshop_Test -->
+      <class name="systemTestCase.To_launch_Samsung_Test">
+        <test-method signature="samsung()[pri:0, instance:systemTestCase.To_launch_Samsung_Test@385e9564]" started-at="2024-04-01T15:35:44 IST" name="samsung" finished-at="2024-04-01T15:35:54 IST" duration-ms="10015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsung -->
+      </class> <!-- systemTestCase.To_launch_Samsung_Test -->
+      <class name="systemTestCase.To_launch_Apple_Test">
+        <test-method signature="apple()[pri:0, instance:systemTestCase.To_launch_Apple_Test@6a2f6f80]" started-at="2024-04-01T15:34:59 IST" name="apple" finished-at="2024-04-01T15:35:12 IST" duration-ms="13110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+      </class> <!-- systemTestCase.To_launch_Apple_Test -->
+      <class name="IntigrationTestCase.To_launch_Sugar_Test">
+        <test-method signature="sugar()[pri:0, instance:IntigrationTestCase.To_launch_Sugar_Test@5aebe890]" started-at="2024-04-01T15:34:18 IST" name="sugar" finished-at="2024-04-01T15:34:20 IST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sugar -->
+      </class> <!-- IntigrationTestCase.To_launch_Sugar_Test -->
+      <class name="smokeTestCase.To_launch_Myntra_Test">
+        <test-method signature="myntra()[pri:0, instance:smokeTestCase.To_launch_Myntra_Test@1190200a]" started-at="2024-04-01T15:34:54 IST" name="myntra" finished-at="2024-04-01T15:34:59 IST" duration-ms="4795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+      </class> <!-- smokeTestCase.To_launch_Myntra_Test -->
+      <class name="IntigrationTestCase.To_Iaunch_Lorealparis_Test">
+        <test-method signature="lorealparis()[pri:0, instance:IntigrationTestCase.To_Iaunch_Lorealparis_Test@58a9760d]" started-at="2024-04-01T15:33:36 IST" name="lorealparis" finished-at="2024-04-01T15:33:47 IST" duration-ms="10301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lorealparis -->
+      </class> <!-- IntigrationTestCase.To_Iaunch_Lorealparis_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
